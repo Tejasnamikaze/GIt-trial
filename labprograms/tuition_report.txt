@@ -1,0 +1,12 @@
+
+tejas m
+ | In-State
+
+tejas m
+ | In-State
+ | special course : e
+ | 100
+tejas
+ | In-State
+ | special course : E
+ | 12222
